@@ -1,9 +1,42 @@
+# jemdoc: menu{MENU}{index.html}
 = Dr. Christopher Herbig 
+
+~~~
+{}{img_left}{main.jpg}{Photo of Dr. Firstname Lastname}{150px}{}
+I am a mathematics researcher specializing in finite group theory. 
+~~~
+
+= Important Files
+- [cv.pdf My Curriculum Vitae] (Updated October 2026)
+- [RS2_Herbig.pdf My Research Statement] (Updated October 2026)
+- [TS2_Herbig.pdf My Teaching Statement] (Updated October 2026)
+
+= Preprints and Publications
+
+My research is primarily concerned with finite groups. Much of my work deals with the values taken by 
+group characters, so my research has a somewhat number-theoretic flavor. I am also interested in the theory
+of permutation groups and related combinatorial subjects.
+
+- [https://arxiv.org/abs/2609.12326 On a question of Navarro on the field of values of characters of solvable groups], arXiv preprint (2026).
+- [https://arxiv.org/pdf/2608.26463 A determination of /B/-groups of order p^4], arXiv preprint (2026).
+- [https://arxiv.org/abs/2604.10888 Character Values and Conductors of Low-rank Groups of Lie Type], with N. N. Hung, arXiv preprint (2026).
+- [https://doi.org/10.1515/jgth-2025-0161 Generalized Characters and Prime Graphs], to appear in the /Journal of Group Theory/, (2026).
+- [https://doi.org/10.1007/s00013-025-02212-z Answer to a question of Hung and Tiep on conductors of cyclotomic integers], /Arch. Math. (Basel)/ *126*(3) (2026).
+- [https://arxiv.org/abs/2503.23637 A block-theoretic proof of Burnside's Normal $p$-complement Theorem], arXiv preprint (2025).
+- [https://huskiecommons.lib.niu.edu/allgraduate-thesesdissertations/8208/ On values taken by characters of finite groups], dissertation (2026).
+
+= Employment History
+
+I am currently employed as an assistant professor of mathematics at Little Priest Tribal College in
+Winnebago, Nebraska. Prior to working here, I worked as a graduate teaching assistant at Northern 
+Illinois University and as an adjunct instructor at Kishwaukee College. For a more detailed look at
+my teaching experience, click [teaching.html here].
 
 == Education
 - Ph.D. in Mathematics, Northern Illinois University, 2026
 - M.S. in Mathematics, Northern Illinois University, 2024
 - B.Sc in Mathematics, Northern Illinois University, 2021
 
-== Research
-My research is primarily concerned with finite groups and their characters.
+= Misc.
+
+For a list of my 100 favorite albums, click [music.html here].
